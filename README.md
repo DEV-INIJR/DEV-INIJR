@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de DEV-INIJR 😁
 
  <div>
-   <a href="https://github.com/BreadcrumbsDEV-INIJR">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsDEV-INIJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsDEV-INIJR&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/DEV-INIJR">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEV-INIJR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-INIJR&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/BreadcrumbsDEV-INIJR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/DEV-INIJR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
 
   
